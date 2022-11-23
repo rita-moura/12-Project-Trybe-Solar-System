@@ -1,4 +1,5 @@
 import React from 'react';
+import '../Style/SolarSystem.css';
 import Title from './Title';
 import Planets from '../data/planets';
 import PlanetCard from './PlanetCard';
