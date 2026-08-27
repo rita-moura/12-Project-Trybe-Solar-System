@@ -1,13 +1,31 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# Solar System
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+Aplicação React que apresenta missões espaciais e planetas do Sistema Solar por meio de componentes reutilizáveis.
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+## Funcionalidades e aprendizados
+
+- Aplicação React que apresenta missões espaciais e planetas do Sistema Solar por meio de componentes reutilizáveis
+- Código organizado para estudo e evolução
+- Prática das tecnologias utilizadas no repositório
+
+## Tecnologias
+
+- JavaScript
+- React
+- CSS3
+
+## Como executar
+
+```bash
+git clone https://github.com/rita-moura/12-Project-Trybe-Solar-System.git
+cd 12-Project-Trybe-Solar-System
+```
+Consulte os arquivos do projeto para identificar o comando de execução correspondente ao ambiente utilizado.
+
+## Contexto
+
+Projeto desenvolvido durante a formação da [Trybe](https://www.betrybe.com/) para consolidar conhecimentos por meio de uma atividade prática.
+
+## Autoria
+
+Desenvolvido por [Rita Moura](https://github.com/rita-moura).
